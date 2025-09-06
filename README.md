@@ -23,7 +23,7 @@ Customers can scan a QR code at their table to view the menu, place orders, trac
 
 ## Open in Browser
 
-Simply open index.html in your browser to run the app.
+Simply open each .html in your browser to run the app.
 
 ---
 
